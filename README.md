@@ -1,4 +1,9 @@
 ### Neural Networks and Deep Learning
+
+
+* ## Handwritten Deep Learning Notes 📓: https://drive.google.com/drive/folders/1KwAIWEn_4FIHZsoTIlYmDW7NWlZJE5Ub?usp=sharing
+
+
 * Certificate Link: https://coursera.org/share/72271c0e2d4e5fac786fbd1c863adf84
 * Certificate 📷:
  <img src ="Images/Neural%20Networks%20and%20Deep%20Learning.png" width="639" height="494"/>
